@@ -1,0 +1,16 @@
+﻿[
+    {
+        "compNo": "123",
+        "myURL": "192.168.1.7/API",
+        "myProtocol": "http://",
+        "maxUsers": 2,
+        "company": "الشركة العامة لتطوير البرمجيات"
+    },
+    {
+        "compNo": "456",
+        "myURL": "192.168.1.7/API",
+        "myProtocol": "http://",
+        "maxUsers": 2,
+        "company": "الشركة العامة لتطوير البرمجيات"
+    }
+]

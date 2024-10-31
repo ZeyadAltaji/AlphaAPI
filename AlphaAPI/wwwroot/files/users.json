@@ -1,0 +1,26 @@
+[
+    {
+        "compNo": "123",
+        "deviceID": "star2lte",
+        "deviceMODEL": "SM-G965F",
+        "deviceManufacturer": "samsung",
+        "myIP": "192.168.1.157",
+        "fingerprint": null
+    },
+    {
+        "compNo": "123",
+        "deviceID": "ad5d78dbc3b3d652",
+        "deviceMODEL": "SM-G965F",
+        "deviceManufacturer": "samsung",
+        "myIP": "192.168.1.157",
+        "fingerprint": "samsung/star2ltexx/star2lte:10/QP1A.190711.020/G965FXXU9ETF5:user/release-keys"
+    },
+    {
+        "compNo": "456",
+        "deviceID": "123",
+        "deviceMODEL": "deviceMODEL",
+        "deviceManufacturer": "deviceManufacturer",
+        "myIP": "::1",
+        "fingerprint": "fingerprint"
+    }
+]

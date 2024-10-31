@@ -1,0 +1,91 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "descr": "طلبات خدمات مالية"
+        },
+        {
+            "id": 2,
+            "descr": "طلبات خدمات صحية"
+        },
+        {
+            "id": 3,
+            "descr": "طلبات خدمات عامة"
+        },
+        {
+            "id": 4,
+            "descr": "طلبات خدمات IT"
+        },
+        {
+            "id": 5,
+            "descr": "طلبات اخرى"
+        }
+
+    ],
+
+    "submenu": [
+        {
+            "id": 1,
+            "descr": "معونة اجتماعية",
+            "link": "/salaryincrease",
+            "color": "ddedc0",
+            "img": "salary.png"
+        },
+        {
+            "id": 1,
+            "descr": "سلفة",
+            "link": "/advancepayment",
+            "color": "ddedc0",
+            "img": "buy.png"
+        },
+        {
+            "id": 1,
+            "descr": "عمل اضافي",
+            "link": "/extrawork",
+            "color": "ddedc0",
+            "img": "extra.png"
+        },
+        {
+            "id": 1,
+            "descr": "حصول على علاوة",
+            "link": "/bonus",
+            "color": "ddedc0",
+            "img": "bonus.png"
+        },
+        {
+            "id": 2,
+            "descr": "انضمام للتأمين",
+            "link": "/insurancejoin",
+            "color": "42f5f2",
+            "img": "002-group.png"
+        },
+        {
+            "id": 2,
+            "descr": "الغاء التأمين",
+            "link": "/insurancecancel",
+            "color": "42f5f2",
+            "img": "001-crowd.png"
+        },
+        {
+            "id": 2,
+            "descr": "ادخال معالين",
+            "link": "/addforinsurance",
+            "color": "42f5f2",
+            "img": "life-insurance2.png"
+        },
+        {
+            "id": 3,
+            "descr": "تجديد رخصة",
+            "link": "/",
+            "color": "42f5f2",
+            "img": "car.png"
+        },
+        {
+            "id": 3,
+            "descr": "تجديد جواز سفر",
+            "link": "/",
+            "color": "42f5f2",
+            "img": "car.png"
+        }
+    ]
+}

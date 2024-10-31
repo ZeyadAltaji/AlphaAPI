@@ -1,0 +1,9 @@
+[
+    {
+        "Server55": ".",
+        "Server": "192.168.12.6",
+        "DataBase": "db",
+        "COMMAND_TIMEOUT": 90,
+        "Company": "الشركة العامة لتطوير البرمجيات"
+    }
+]
